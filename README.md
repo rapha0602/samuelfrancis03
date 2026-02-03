@@ -1,17 +1,17 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samuel+Francis&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Raphael+Arnaut&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&separator=%3C&lines=Hello%2C+I%C2%B4m+Samuel+Francis!%3CI%C2%B4m+naturally+Brazilian%2C+MG%3CWelcome+to+my+GitHub+Profile!%3CConsole.WriteLine+(%22;)%22)%3C;)" alt="Typing SVG" /></a>
 </div>
 
 ##
 ### 📈 My Statiscs
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelfrancis03)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelfrancis03&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapha0602)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapha0602&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelfrancis03)](https://github.com/samuelfrancis03/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rapha0602)](https://github.com/samuelfrancis03/github-readme-stats)
 
 <div align="center">
-  <img width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelfrancis03&theme=github_dark" />
+  <img width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rapha0602&theme=github_dark" />
 </div>
 
 ##
@@ -36,15 +36,15 @@
   <li>🧔🏻‍♂️Pronouns: He/Him </li>
 </ul>
 <div style="displey; inline_block">  
-  <a href="https://www.instagram.com/samuel.rocha__/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/samuel-rocha03/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://www.instagram.com/rapha0602/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raphael-arnaut-21066b254/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </div>
 <br/>
 
 <div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
-  <a href="https://u8views.com/github/samuelfrancis03"><img src="https://u8views.com/api/v1/github/profiles/78854742/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/rapha0602"><img src="https://u8views.com/api/v1/github/profiles/78854742/views/day-week-month-total-count.svg"></a>
   <br>
 </div>
 
